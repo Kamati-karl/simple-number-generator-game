@@ -1,0 +1,14 @@
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\bin\Debug\netcoreapp3.1\determine number.exe
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\bin\Debug\netcoreapp3.1\determine number.deps.json
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\bin\Debug\netcoreapp3.1\determine number.runtimeconfig.json
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\bin\Debug\netcoreapp3.1\determine number.runtimeconfig.dev.json
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\bin\Debug\netcoreapp3.1\determine number.dll
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\bin\Debug\netcoreapp3.1\determine number.pdb
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\obj\Debug\netcoreapp3.1\determine number.csproj.AssemblyReference.cache
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\obj\Debug\netcoreapp3.1\determine number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\obj\Debug\netcoreapp3.1\determine number.AssemblyInfoInputs.cache
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\obj\Debug\netcoreapp3.1\determine number.AssemblyInfo.cs
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\obj\Debug\netcoreapp3.1\determine number.csproj.CoreCompileInputs.cache
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\obj\Debug\netcoreapp3.1\determine number.dll
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\obj\Debug\netcoreapp3.1\determine number.pdb
+C:\Users\FC 2021\Documents\Visual Studio 2019\C# projects\determine number\obj\Debug\netcoreapp3.1\determine number.genruntimeconfig.cache
